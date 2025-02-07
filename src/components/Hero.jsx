@@ -14,7 +14,8 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 font-['Playfair_Display']"
           >
-            Vikas Law<br className="hidden md:block"/>
+            Vikas Law
+            <br />
             <span className="text-red-600 text-3xl md:text-4xl lg:text-5xl">Excellence in Legal Representation</span>
           </motion.h1>
           
