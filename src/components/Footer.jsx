@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-2xl font-bold mb-6 font-['Playfair_Display']">MyLawFirm</h3>
+            <h3 className="text-2xl font-bold mb-6 font-['Playfair_Display']">Vikas Law Firm</h3>
             <p className="text-gray-300 font-['Open_Sans']">
               Providing exceptional legal services with integrity and professionalism.
             </p>
@@ -44,14 +44,14 @@ const Footer = () => {
               <li>123 Legal Street, Suite 100</li>
               <li>New York, NY 10001</li>
               <li>Phone: (555) 123-4567</li>
-              <li>Email: contact@mylawfirm.com</li>
+              <li>Email: contact@vikaslawfirm.com</li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-neutral-800 mt-8 pt-8 text-center">
           <p className="text-gray-300 font-['Open_Sans']">
-            &copy; {new Date().getFullYear()} MyLawFirm. All rights reserved.
+            &copy; {new Date().getFullYear()} Vikas Law Firm. All rights reserved.
           </p>
         </div>
       </div>

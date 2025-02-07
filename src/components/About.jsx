@@ -56,7 +56,7 @@ const About = () => {
             variants={variants}
             className="text-4xl font-bold text-neutral-900 mb-4 font-['Playfair_Display']"
           >
-            About MyLawFirm
+            About Vikas Law Firm
           </motion.h2>
           <div className="w-24 h-1 bg-red-600 mx-auto"></div>
         </div>
@@ -72,7 +72,7 @@ const About = () => {
               A Legacy of Legal Excellence
             </h3>
             <p className="text-neutral-600 leading-relaxed font-['Open_Sans']">
-              Founded with a vision to provide exceptional legal services, MyLawFirm has established itself as a leading law firm committed to delivering justice and protecting our clients' interests. With decades of combined experience, our team of dedicated attorneys brings deep expertise and unwavering dedication to every case.
+              Founded with a vision to provide exceptional legal services, Vikas Law Firm has established itself as a leading law firm committed to delivering justice and protecting our clients' interests. With decades of combined experience, our team of dedicated attorneys brings deep expertise and unwavering dedication to every case.
             </p>
             
             <div className="space-y-4">

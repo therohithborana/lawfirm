@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           <div className="flex-shrink-0">
             <a href="#home" className="text-2xl font-bold text-white font-['Playfair_Display']">
-              MyLawFirm
+              Vikas Law Firm
             </a>
           </div>
           <div className="hidden md:block">

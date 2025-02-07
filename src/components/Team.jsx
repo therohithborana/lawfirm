@@ -3,13 +3,13 @@ import React from 'react';
 const Team = () => {
   const teamMembers = [
     {
-      name: 'John Doe',
+      name: 'Vikas',
       role: 'Senior Attorney',
       image: '/images/john-doe.jpg',
       description: 'Specializes in corporate law and business litigation with over 20 years of experience.',
     },
     {
-      name: 'Jane Smith',
+      name: 'Jane ',
       role: 'Family Law Expert',
       image: '/images/jane-smith.jpg',
       description: 'Dedicated to helping families navigate complex legal matters with compassion and expertise.',
